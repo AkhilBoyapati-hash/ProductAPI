@@ -1,0 +1,39 @@
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# User-Specific Files
+*.user
+*.rsuser
+*.suo
+
+# Visual Studio Specific
+.vs/
+*.vscode/
+
+# Logs
+*.log
+
+# Dependency Caches
+*.nuget/
+packages/
+
+# Temporary Files
+*.tmp
+*.ide
+
+# Configurations
+appsettings.json
+appsettings.Development.json
+
+# OS Generated Files
+Thumbs.db
+.DS_Store
+
+# JetBrains Rider
+.idea/
+
+# Publish Output
+publish/
